@@ -108,3 +108,5 @@ testing/validate_prediction/results_old/
 .idea/encodings.xml
 .idea/snapshots/
 .idea/webServers.xml
+
+.idea/*
